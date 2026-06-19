@@ -1,2 +1,0 @@
-# refactored-lamp
-project5
